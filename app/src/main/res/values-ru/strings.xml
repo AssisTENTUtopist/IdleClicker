@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кликер Чувства Времени</string>
+    <string name="button">Нажимай сюда</string>
+    <string name="button2">Нажми, чтобы задать результаты</string>
+    <string name="back_button">Вернуться</string>
+    <string name="button3">Нажми, чтобы начать отсчёт</string>
+    <string name="clicks_enter">Введите предполагаемое количество кликов</string>
+    <string name="time_enter">Введите предполагаемое время игры</string>
+    <string name="button4">Нажми, чтобы получить результаты</string>
+    <string name="toast">Сначала начните отсчёт времени</string>
+    <string name="clicks_text">Клики</string>
+    <string name="expected">Вы предположили:</string>
+    <string name="real">Вы сделали:</string>
+    <string name="time_text">Время</string>
+    <string name="format_error">Вы ввели неверный формат значений (целое, мм:сс)</string>
+    <string name="its_time_to_stop">Таймер уже активирован</string>
+</resources>

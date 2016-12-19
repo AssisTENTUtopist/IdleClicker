@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sense of Time Clicker</string>
+    <string name="button">Tap here</string>
+    <string name="button2">Tap to set results</string>
+    <string name="back_button">Go back</string>
+    <string name="button3">Tap to start time</string>
+    <string name="time_enter">Enter the estimated playing time</string>
+    <string name="clicks_enter">Enter the estimated number of clicks</string>
+    <string name="button4">Tap to get results</string>
+    <string name="toast">First begin the time count</string>
+    <string name="time_text">Time</string>
+    <string name="clicks_text">Clicks</string>
+    <string name="real">You have performed:</string>
+    <string name="expected">You have suggested:</string>
+    <string name="format_error">You have entered wrong value format (int, mm:ss)</string>
+    <string name="its_time_to_stop">Timer is activated already</string>
+</resources>

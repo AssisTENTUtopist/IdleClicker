@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8EE6BE</color>
+    <color name="colorPrimaryDark">#1A4</color>
+    <color name="colorAccent">#0FFF</color>
+    <color name="colorVeryClose">#0A0</color>
+    <color name="colorTooFar">#A00</color>
+    <color name="colorAverageDistance">#AA0</color>
+</resources>
